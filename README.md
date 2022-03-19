@@ -1,8 +1,7 @@
 # Web_A
 UMC 2기 Web스터디 A팀
 
-## 저희는 “TEAM TARANTULA (Web_B)” 입니다!
-<p align="center"><img width="640" alt="UMC-KU Web_B.png" src="UMC-KU Web_B.png"></p>
+## 팀이름,,?
 
 ### Member
 스터디장 : 화이트/백은미
